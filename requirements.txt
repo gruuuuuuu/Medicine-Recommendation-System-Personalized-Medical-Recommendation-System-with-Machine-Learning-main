@@ -132,5 +132,5 @@ wcwidth==0.2.6
 webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.6.2
-Werkzeug==3.0.4
+Werkzeug==3.0.4 
 mysql-connector-python==8.0.33
